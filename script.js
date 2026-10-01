@@ -30,3 +30,14 @@ function menorEMaiorAltura(){
     }
     alert(`A maior altura é: ${maior}\nA menor altura é: ${menor}`)
 }
+
+function mediaAritimetica(){
+    let numero = 10;
+    let positivo = 0;
+    let negativo = 0
+
+    while (numeroPositivo >= numeroNegativo){
+        
+    }
+
+}
